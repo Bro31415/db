@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Red Bull",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 2,
+    "name": "Scuderia Ferrari",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/ferrari-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 3,
+    "name": "Mercedes AMG F1",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/mercedes-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 4,
+    "name": "McLaren Racing",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/mclaren-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 5,
+    "name": "Scuderia Alphatauri",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/alphatauri-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 6,
+    "name": "Alpine F1 Team",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/alpine-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 7,
+    "name": "Aston Martin Racing F1",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/aston-martin-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 8,
+    "name": "Alfa Romeo Racing",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/alfa-romeo-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 9,
+    "name": "Williams F1 Team",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/williams-logo.png.transform/2col/image.png"
+  },
+  {
+    "id": 10,
+    "name": "Haas F1 Team",
+    "logo": "https://www.formula1.com/content/dam/fom-website/teams/2022/haas-f1-team-logo.png.transform/2col/image.png"
+  }
+]
